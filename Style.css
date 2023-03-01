@@ -1,0 +1,39 @@
+html
+{
+    background: url(/background.jpg) no-repeat center center fixed;
+    
+
+}
+h1{
+    color: white;
+    background-color:dimgray;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+
+}
+h2{
+    color: aliceblue;
+    font-family: 'Phudu', cursive;
+}
+div{
+    position:absolute;
+  height:400px;
+  width:400px;
+  top: 510px;
+  left : 1000px;
+  z-index: 1;
+}
+h3{
+    font-family: 'Phudu', cursive;
+    color: ghostwhite;
+    font-size: 20;
+}
+a{
+    position: absolute;
+    left: 1500px;
+    z-index: 1;
+    color: aliceblue;
+    font-size: 35px;
+    font-family: 'Phudu', cursive;
+    background-color: brown; 
+}
